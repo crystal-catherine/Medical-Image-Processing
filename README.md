@@ -1,2 +1,2 @@
 # Medical-Image-Processing
- Segmentation, Classification, Detecion, Reconstruction
+ Segmentation, Classification, Detection, Reconstruction
